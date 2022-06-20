@@ -1,13 +1,10 @@
 {
     "name": "nfyz1996",
-    "description": "floppymoppy",
-
+    "description": "nfyz.",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
             "value": "password"
         }
     },
-  
     "stack": "container"
-}
