@@ -1,7 +1,11 @@
 {
-    "name": "reimagined-waffle",
-    "description": "For 4PDA.",
+    "name": "nfyz1996",
+    "description": "nfyz1996",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
             "value": "password"
+        }
+    },
+    "stack": "container"
+}
